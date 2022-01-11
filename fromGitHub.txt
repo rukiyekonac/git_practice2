@@ -1,0 +1,7 @@
+This is an awesome file i added directly from GitHub.com
+And now i am about tocommit directly to GitHub.com remote respository
+Question : What if I want to ignore any file that end with `.txt`? Do I need to add all of them one by one 
+No : We can use wild card to match all the file with `.txtx` as below 
+   1. Just like you learned in java package something`.*`, you can add * to match pattern in `.gitignore` file 
+   2. for example `*.txt` means all text file with any names
+ (edited)
